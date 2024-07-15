@@ -5,7 +5,7 @@ import time
 app = Flask(_name_)
 
 WINDOW_SIZE = 10
-TIMEOUT = 0.5  # 500 milliseconds
+TIMEOUT = 0.5  
 
 THIRD_PARTY_SERVER = "http://localhost:8000/"  
 
